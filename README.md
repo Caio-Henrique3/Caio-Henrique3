@@ -2,19 +2,11 @@
 
 ## ⚡ Fun fact: ...
 <div>
-  <p>24 years 🤵</p>
-  <p>Computer Science Student 💻</p>
+  <p>25 years 🤵</p>
+  <p>Graduate in Computer Science 💻</p>
   <p>Full-stack developer and analyst systems 🛠</p>
   <p>In constant evolution and always looking for progress!! 🚀</p>
-</div
-
-<div align="center">
-  <a href="https://github.com/Caio-Henrique3?tab=repositories">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caio-Henrique3&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Henrique3&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-##
 
 ## 🔭 I’m currently working on ...
 <div style="display: inline_block"><br>
