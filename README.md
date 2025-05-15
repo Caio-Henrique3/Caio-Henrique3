@@ -2,7 +2,7 @@
 
 ## ⚡ Fun fact: ...
 <div>
-  <p>26 years 🤵</p>
+  <p>27 years 🤵</p>
   <p>Graduate in Computer Science 💻</p>
   <p>Full-stack developer and analyst systems 🛠</p>
   <p>In constant evolution and always looking for progress!! 🚀</p>
